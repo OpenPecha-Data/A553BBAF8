@@ -1,0 +1,18 @@
+segment_sources:
+  P8CC4E1E4:
+    type: origin_type
+    relation: translation
+    language: bo
+  PA51BD49E:
+    type: origin_type
+    relation: translation
+    language: zh
+  PD7E76D8C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  efc6c891e8df45a6bba7a118a48d5e1e:
+    P8CC4E1E4: 073657ca120b43de8e4554f58795e241
+    PA51BD49E: be1e92a118c8428799e84825df135209
+    PD7E76D8C: 69d1181feff94f78a8f7e45c453ca119

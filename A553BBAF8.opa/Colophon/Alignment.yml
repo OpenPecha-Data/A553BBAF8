@@ -1,0 +1,22 @@
+segment_sources:
+  P8CC4E1E4:
+    type: origin_type
+    relation: translation
+    language: bo
+  PA51BD49E:
+    type: origin_type
+    relation: translation
+    language: zh
+  PD7E76D8C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  43c0a266d3224b9a952b3700218c7e85:
+    P8CC4E1E4: 9584ca2d312a4546ab8c559da001b830
+    PA51BD49E: 614d0c85612b475890246cbda7d1fc0a
+    PD7E76D8C: b92c19da8db64db280b0386d50850346
+  77656f8636cf4e37a19d9af69a755d8c:
+    P8CC4E1E4: 2a5606a888034a859bab468a003c4b82
+    PA51BD49E: None
+    PD7E76D8C: 0f86f40e4c1349dfa550cb605a9c05b8
